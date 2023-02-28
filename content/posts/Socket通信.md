@@ -1,5 +1,5 @@
 ---
-title: "QtSocket通信"
+title: "Socket通信"
 date: 2023-02-16T14:52:16+08:00
 tags: ["socket"]
 categories: ["C++","网络通信"]
