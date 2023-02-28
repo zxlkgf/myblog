@@ -1,8 +1,8 @@
 ---
 title: "关于.gitignore详解"
 date: 2022-11-14T20:11:22+09:00
-tags: ["git"]
-categories: ["git使用"]
+tags: ["Git"]
+categories: ["Git使用"]
 draft: false
 ---
 
