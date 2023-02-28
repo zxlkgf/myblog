@@ -3,7 +3,7 @@ title: "GitAction_Hugo"
 date: 2023-02-28T09:26:25+08:00
 tags: ["hugo"]
 categories: ["hugo使用","Git使用"]
-draft: true
+draft: false
 ---
 
 # 关于Hugo在GitAction部署期间的问题
