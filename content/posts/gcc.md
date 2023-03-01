@@ -1,8 +1,8 @@
 ---
 title: "GCC基础"
 date: 2023-02-01T20:55:47+08:00
-tags: ["C/C++"]
-categories: ["C/C++","GCC"]
+tags: ["Linux编程入门"]
+categories: ["Linux编程入门"]
 draft: false
 ---
 

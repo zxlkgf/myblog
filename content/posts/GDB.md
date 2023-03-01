@@ -1,8 +1,8 @@
 ---
 title: "GDB调试"
 date: 2023-02-04T20:55:47+08:00
-tags: ["C/C++学习"]
-categories: ["GDB","Linux"]
+tags: ["Linux编程入门"]
+categories: ["Linux编程入门"]
 draft: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "GDB多线程调试"
 date: 2023-02-04T20:55:47+08:00
-tags: ["C/C++"]
-categories: ["GDB","Linux"]
+tags: ["Linux多进程开发"]
+categories: ["Linux多进程开发"]
 draft: false
 ---
 # GDB多进程调试

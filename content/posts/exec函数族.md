@@ -1,8 +1,8 @@
 ---
 title: "exec函数族"
 date: 2023-02-07T20:55:47+08:00
-tags: ["C/C++"]
-categories: ["exec函数族","Linux"]
+tags: ["Linux编程入门"]
+categories: ["Linux编程入门"]
 draft: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Makefile"
 date: 2023-02-03T20:55:47+08:00
-tags: ["脚本"]
-categories: ["Linux"]
+tags: ["Linux编程入门"]
+categories: ["Linux编程入门"]
 draft: false
 ---
 
