@@ -33,4 +33,5 @@ jobs:
                   EXTERNAL_REPOSITORY: zxlkgf/zxlkgf.github.io
                   PUBLISH_BRANCH: main
                   PUBLISH_DIR: ./public
+                  cname: www.zxlkgf.com 
                   commit_message: ${{ github.event.head_commit.message }}
