@@ -1,4 +1,5 @@
-baseURL = "http://www.zxlkgf.com/"
+# baseURL = "http://www.zxlkgf.com/"
+baseURL = "http://example.org/"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
@@ -190,7 +191,7 @@ hasCJKLanguage = true
   [params.social]
     GitHub = "zxlkgf"
     Linkedin = ""
-    Twitter = ""
+    Twitter = "https://twitter.com/ZXLKG"
     Instagram = ""
     Facebook = ""
     Telegram = ""
@@ -262,7 +263,7 @@ hasCJKLanguage = true
     RootMe= ""
     Phone = ""
     Email = "z514111073@gmail.com"
-    RSS = true # 
+    RSS = false # 
 
   #  文章页面全局配置
   [params.page]
