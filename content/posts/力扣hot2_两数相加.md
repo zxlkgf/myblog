@@ -1,6 +1,6 @@
 ---
 title: "力扣hot100_2_两数相加"
-date: 2023-03-007T22:59:14+09:00
+date: 2023-03-07T22:59:14+09:00
 tags: ["力扣hot100"]
 categories: ["力扣hot100"]
 draft: false
