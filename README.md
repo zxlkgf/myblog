@@ -1,5 +1,5 @@
 ### 博客地址:  
-zxlkgf.github.io  
+[zxlkgf.github.io](https://www.zxlkgf.com/)  
 ### 博客的构建流程:  
 查看<创建Blog的流程>  
 ### 构建博客的问题:
