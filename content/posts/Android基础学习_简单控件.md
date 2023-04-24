@@ -1,9 +1,9 @@
 ---
 title: "Android基础学习_简单控件"
-date: 2023-04-22T21:25:35+08:00
+date: 2023-04-24T10:25:35+08:00
 tags: ["Android"]
 categories: ["Andorid基础"]
-draft: true
+draft: false
 ---
 
 # 1.Android开发 简单控件
