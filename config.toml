@@ -368,7 +368,7 @@ hasCJKLanguage = true
         # 
         enable = true
         owner = "zxlkgf"
-        repo = "blog_talks"
+        repo = "zxlkgf/blog_talks"
         clientId = "0c9bba49ff63390131ac"
         clientSecret = "e427c2f4a8481ec638a388d4ba80ed95b7da2db9"
       # Valine 评论系统设置
